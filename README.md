@@ -2,7 +2,7 @@
 - 👀 I’m interested in PHP, Laravel, CodeIgniter, Angular 7+, ReactJS, VueJS, NextJS, NuxtJS
 - ✨ I'm also specialized in Designing, Adobe Photoshop, AdobeXD, Figma, and Responsive Design as well
 - 🌱 I’m currently learning ReactNative
-- 📫 How to reach me ... Skype: imail2pankaj
+- 📫 How to reach me ... Skype: imail2pankaj, Email: imail2pankaj@gmail.com
 
 Contact me on my skype for further discussion about your requirement.
 <!---
