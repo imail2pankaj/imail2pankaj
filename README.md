@@ -36,6 +36,7 @@ I'm a passionate full-stack developer and designer specializing in PHP, Laravel,
 ## Connect with Me
 - 📧 Email: imail2pankaj@gmail.com
 - 💬 Skype: imail2pankaj
+- [LinkedIn](https://www.linkedin.com/in/the-pankaj-makwana/)
 - [Stack Overflow](https://stackoverflow.com/users/2613552/pankaj-makwana)
 - [Upwork Profile](https://www.upwork.com/freelancers/~0166b9147d25ba756b)
 - [Fiverr Profile](https://www.fiverr.com/imail2pankaj)
