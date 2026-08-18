@@ -6,6 +6,9 @@ I'm a passionate full-stack developer and designer specializing in PHP, Laravel,
 ## Portfolio
 
 
+### AgencyOra, Next.js + Reactjs + Supabase Projects
+- [AgencyOra ](https://agencyora.in/)
+
 ### ReactJS, Laravel Projects
 - [Casino Admin ](https://cwbo-dev.boautoservice.com/)
 - [Casino API](https://cwapi-dev.boautoservice.com)
