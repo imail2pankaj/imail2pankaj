@@ -6,7 +6,10 @@ I'm a passionate full-stack developer and designer specializing in PHP, Laravel,
 ## Portfolio
 
 
-### AgencyOra, Next.js + Reactjs + Supabase Projects
+### AuthorOra, PHP + Laravel + MySQL
+- [AuthorOra ](https://authotOra.com/)
+- 
+### AgencyOra, PHP + Laravel + Supabase Projects + MySQL
 - [AgencyOra ](https://agencyora.in/)
 
 ### ReactJS, Laravel Projects
